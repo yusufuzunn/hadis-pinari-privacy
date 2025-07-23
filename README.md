@@ -3,13 +3,36 @@
 <head>
   <meta charset="UTF-8">
   <title>Gizlilik Politikası - Hadis Pınarı</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-  <h1>Hadis Pınarı - Gizlilik Politikası</h1>
-  <p>Hadis Pınarı uygulaması, kullanıcılarından herhangi bir kişisel veri talep etmez. Uygulama içerisinde gösterilen içerikler cihaz üzerinde çalışır ve herhangi bir sunucuya veri gönderimi yapılmaz. Paylaşım ve favori gibi özellikler yalnızca cihaz içi bellekte tutulur.</p>
-  <p>Uygulama, üçüncü parti hizmetler (örneğin, Google Analytics veya reklamlar) içermez.</p>
-  <p><strong>Uygulama geliştiricisi:</strong> Yusuf Uzun<br>
-  <strong>İletişim:</strong> [yusfuzn@hotmail.com]</p>
-  <p><strong>Güncellenme Tarihi:</strong> 23 Temmuz 2025</p>
+  <h1>Gizlilik Politikası</h1>
+  <p><strong>Son güncelleme:</strong> 23 Temmuz 2025</p>
+
+  <p>Hadis Pınarı mobil uygulaması, kullanıcıların gizliliğine büyük önem verir. Bu gizlilik politikası, uygulamamızın kullanıcı bilgilerinin toplanması, kullanılması ve saklanmasıyla ilgili esasları açıklamaktadır.</p>
+
+  <h2>Toplanan Veriler</h2>
+  <p>Hadis Pınarı uygulaması kullanıcıdan <strong>herhangi bir kişisel veri</strong> toplamaz.</p>
+  <ul>
+    <li>Uygulama internete bağlanmaz.</li>
+    <li>Kullanıcı tercihleri ve favori hadisler yalnızca cihaz içinde saklanır.</li>
+    <li>Veriler üçüncü şahıslarla paylaşılmaz.</li>
+  </ul>
+
+  <h2>Üçüncü Taraf Hizmetler</h2>
+  <p>Uygulama, herhangi bir analiz aracı, reklam hizmeti veya üçüncü taraf hizmet kullanmaz.</p>
+
+  <h2>Çocukların Gizliliği</h2>
+  <p>Hadis Pınarı, çocuklara yönelik olarak geliştirilmiş bir uygulama değildir ancak çocuklar tarafından kullanılmasında herhangi bir sakınca bulunmamaktadır. Uygulama içinde herhangi bir zararlı içerik bulunmaz.</p>
+
+  <h2>Güncellemeler</h2>
+  <p>Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlanacaktır.</p>
+
+  <h2>İletişim</h2>
+  <p>Bu gizlilik politikası hakkında sorularınız varsa aşağıdaki e-posta adresinden bizimle iletişime geçebilirsiniz:</p>
+  <ul>
+    <li><strong>Geliştirici:</strong> Yusuf Uzun</li>
+    <li><strong>E-posta:</strong> yusfuzn@hotmail.com</li>
+  </ul>
 </body>
 </html>
