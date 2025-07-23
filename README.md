@@ -31,7 +31,7 @@
   <p>Bu gizlilik politikası hakkında sorularınız varsa aşağıdaki e-posta adresinden bizimle iletişime geçebilirsiniz:</p>
   <ul>
     <li><strong>Geliştirici:</strong> Yusuf Uzun</li>
-    <li><strong>E-posta:</strong> yusfuzn@hotmail.com</li>
+    <li><strong>E-posta:</strong> uznsoftware@gmail.com</li>
   </ul>
 </body>
 </html>
