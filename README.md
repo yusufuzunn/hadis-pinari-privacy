@@ -2,7 +2,6 @@
 <html lang="tr">
 <head>
   <meta charset="UTF-8">
-  <title>Gizlilik Politikası - Hadis Pınarı</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
